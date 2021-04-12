@@ -1,0 +1,4 @@
+com\OrangeHrm\utilities\ExtentReportManager.class
+com\OrangeHrm\testCases\TC001_Login_Test.class
+com\OrangeHrm\pageObjects\LoginPage.class
+com\OrangeHrm\testBase\BaseClass.class

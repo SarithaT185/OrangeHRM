@@ -1,0 +1,37 @@
+[INFO ] 09-04-2021 16:58:14.306  TC001_Login_Test - *******Starting Test Case -TC001_Login_Test***********
+[INFO ] 09-04-2021 17:02:10.356  TC001_Login_Test - *******Starting Test Case -TC001_Login_Test***********
+[INFO ] 11-04-2021 23:26:37.215  TC001_Login_Test - *******Starting Test Case -TC001_Login_Test***********
+[INFO ] 11-04-2021 23:26:38.181  TC001_Login_Test - Orange HRM application is opened
+[INFO ] 11-04-2021 23:26:38.209  TC001_Login_Test - ******** Entering Login Details**********
+[INFO ] 11-04-2021 23:26:38.264  TC001_Login_Test - Username Entered is Admin
+[INFO ] 11-04-2021 23:26:38.319  TC001_Login_Test - Password Entered is admin123
+[INFO ] 11-04-2021 23:26:39.390  TC001_Login_Test - **********Login Successful*************
+[INFO ] 11-04-2021 23:26:39.495  TC001_Login_Test - *****Ending Test Case - TC001_Login_Test ********
+[INFO ] 12-04-2021 00:03:27.978  TC001_Login_Test - *******Starting Test Case -TC001_Login_Test***********
+[INFO ] 12-04-2021 00:03:29.017  TC001_Login_Test - Orange HRM application is opened
+[INFO ] 12-04-2021 00:03:29.038  TC001_Login_Test - ******** Entering Login Details**********
+[INFO ] 12-04-2021 00:03:29.094  TC001_Login_Test - Username Entered is Admin
+[INFO ] 12-04-2021 00:03:29.158  TC001_Login_Test - Password Entered is admin123
+[INFO ] 12-04-2021 00:03:30.225  TC001_Login_Test - **********Login Successful*************
+[INFO ] 12-04-2021 00:03:30.318  TC001_Login_Test - *****Ending Test Case - TC001_Login_Test ********
+[INFO ] 12-04-2021 00:24:17.037  TC001_Login_Test - *******Starting Test Case -TC001_Login_Test***********
+[INFO ] 12-04-2021 00:24:17.951  TC001_Login_Test - Orange HRM application is opened
+[INFO ] 12-04-2021 00:24:17.977  TC001_Login_Test - ******** Entering Login Details**********
+[INFO ] 12-04-2021 00:24:18.024  TC001_Login_Test - Username Entered is Admin
+[INFO ] 12-04-2021 00:24:18.068  TC001_Login_Test - Password Entered is admin123
+[INFO ] 12-04-2021 00:24:19.169  TC001_Login_Test - **********Login Successful*************
+[INFO ] 12-04-2021 00:24:19.267  TC001_Login_Test - *****Ending Test Case - TC001_Login_Test ********
+[INFO ] 12-04-2021 00:49:09.653  TC001_Login_Test - *******Starting Test Case -TC001_Login_Test***********
+[INFO ] 12-04-2021 00:49:10.559  TC001_Login_Test - Orange HRM application is opened
+[INFO ] 12-04-2021 00:49:10.585  TC001_Login_Test - ******** Entering Login Details**********
+[INFO ] 12-04-2021 00:49:10.646  TC001_Login_Test - Username Entered is Admin
+[INFO ] 12-04-2021 00:49:10.703  TC001_Login_Test - Password Entered is admin123
+[INFO ] 12-04-2021 00:49:11.746  TC001_Login_Test - **********Login Successful*************
+[INFO ] 12-04-2021 00:49:11.844  TC001_Login_Test - *****Ending Test Case - TC001_Login_Test ********
+[INFO ] 12-04-2021 01:41:12.143  TC001_Login_Test - *******Starting Test Case -TC001_Login_Test***********
+[INFO ] 12-04-2021 01:41:13.530  TC001_Login_Test - Orange HRM application is opened
+[INFO ] 12-04-2021 01:41:13.559  TC001_Login_Test - ******** Entering Login Details**********
+[INFO ] 12-04-2021 01:41:13.614  TC001_Login_Test - Username Entered is Admin
+[INFO ] 12-04-2021 01:41:13.672  TC001_Login_Test - Password Entered is admin123
+[INFO ] 12-04-2021 01:41:14.726  TC001_Login_Test - **********Login Successful*************
+[INFO ] 12-04-2021 01:41:14.822  TC001_Login_Test - *****Ending Test Case - TC001_Login_Test ********

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Orange HRM]" parallel="tests">
+  <parameter name="browser" value="firefox"/>
+  <listeners>
+    <listener class-name="com.OrangeHrm.utilities.ExtentReportManager"/>
+  </listeners>
+  <test thread-count="5" name="TC001_Login_Test(failed)" parallel="tests">
+    <classes>
+      <class name="com.OrangeHrm.testCases.TC001_Login_Test">
+        <methods>
+          <include name="teardown"/>
+          <include name="loginTest"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.OrangeHrm.testCases.TC001_Login_Test -->
+    </classes>
+  </test> <!-- TC001_Login_Test(failed) -->
+</suite> <!-- Failed suite [Orange HRM] -->
